@@ -15,15 +15,6 @@ Fetches weather for your **current location** on load and supports **city search
 
 ---
 
-## 🖼️ Preview
-
-![light mode preview](./screenshots/light-mode.png)
-![dark mode preview](./screenshots/dark-mode.png)
-
-> Add screenshots in a `/screenshots/` folder for GitHub preview.
-
----
-
 ## 🛠 Tech Stack
 
 - [React](https://reactjs.org/)
