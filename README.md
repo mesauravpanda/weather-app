@@ -1,7 +1,7 @@
 # 🌦️ Minimal React Weather App
 
 A responsive, minimal, and full-screen weather app built with **React**, **SCSS**, and **WeatherAPI**.  
-Fetches weather for your **current location** on load and supports **city search**, **dark mode**, and **7-day forecasts**.
+Fetches weather for your **current location** on load and supports **city search** and **7-day forecasts**.
 
 ---
 
